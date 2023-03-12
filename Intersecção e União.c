@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "TR67_538531.h"
+#include "Intersecção e União.h"
 
 Set *emptySet() {
   Set *set = (Set*) malloc(sizeof(Set));
